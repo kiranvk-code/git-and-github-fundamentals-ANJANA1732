@@ -1,10 +1,10 @@
 # Anjana S
 
-- 👋 Hi, I’m @ANJANA1732
+- 👋 *Hi, I’m @ANJANA1732*
 
-- 👀 I’m interested in ... UI/WEB DEVELOPMENT/ML
+- 👀 *I’m interested in ... UI/WEB DEVELOPMENT/ML*
 
-- 🌱 I’m currently learning ...HTML|CSS|JS|PYTHON
+- 🌱 *I’m currently learning ...HTML|CSS|JS|PYTHON*
 
 
 ## Projects
